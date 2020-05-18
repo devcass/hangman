@@ -30,12 +30,13 @@ This app use all the latest tools and practices in web development!
 
 ## Project Specifications
 
-- Display UI with movie select, screen, seats, legend & seat info
-- User can select a movie/price
-- User can select/deselect seats
-- User can not select occupied seats
-- Number of seats and price will update
-- Save seats, movie and price to local storage so that UI is still populated on refresh
+- Display hangman pole and figure using SVG
+- Generate a random word
+- Display word in UI with correct letters
+- Display wrong letters
+- Show notification when select a letter twice
+- Show popup on win or lose
+- Play again button to reset game
 
 ## Getting started
 
