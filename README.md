@@ -41,7 +41,7 @@ This app use all the latest tools and practices in web development!
 ## Getting started
 
 1. Clone the project with `git@github.com:devcass/hangman.git`
-2. Enter in the project with `cd movie-seat-booking`
+2. Enter in the project with `cd hangman`
 3. Click on the file to open on your favorite browser
 
 
